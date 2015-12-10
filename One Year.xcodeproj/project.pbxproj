@@ -8,17 +8,23 @@
 
 /* Begin PBXBuildFile section */
 		484867F6115E777B8BD874C2 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FD89E304EEBD86BF3B0DC6CE /* libPods.a */; };
+		FA5F44A31C1946DF00AAD846 /* LocationDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5F44A21C1946DF00AAD846 /* LocationDetailViewController.m */; };
+		FADBFD161C194AC000C4D8DF /* LocationDetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = FADBFD151C194AC000C4D8DF /* LocationDetailView.xib */; };
 		FAEF562F1C18E8BD00E685D7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FAEF562E1C18E8BD00E685D7 /* main.m */; };
 		FAEF56321C18E8BD00E685D7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = FAEF56311C18E8BD00E685D7 /* AppDelegate.m */; };
 		FAEF56351C18E8BD00E685D7 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FAEF56341C18E8BD00E685D7 /* ViewController.m */; };
 		FAEF56381C18E8BD00E685D7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAEF56361C18E8BD00E685D7 /* Main.storyboard */; };
 		FAEF563A1C18E8BD00E685D7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAEF56391C18E8BD00E685D7 /* Assets.xcassets */; };
 		FAEF563D1C18E8BD00E685D7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FAEF563B1C18E8BD00E685D7 /* LaunchScreen.storyboard */; };
+		FAEF56461C19384E00E685D7 /* Location.m in Sources */ = {isa = PBXBuildFile; fileRef = FAEF56451C19384E00E685D7 /* Location.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		B50F5D307A86FAAAF91BE5BF /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		CCE35CC402C9B7A3A4EADD94 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		FA5F44A11C1946DF00AAD846 /* LocationDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocationDetailViewController.h; sourceTree = "<group>"; };
+		FA5F44A21C1946DF00AAD846 /* LocationDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocationDetailViewController.m; sourceTree = "<group>"; };
+		FADBFD151C194AC000C4D8DF /* LocationDetailView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LocationDetailView.xib; sourceTree = "<group>"; };
 		FAEF562A1C18E8BD00E685D7 /* One Year.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "One Year.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FAEF562E1C18E8BD00E685D7 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		FAEF56301C18E8BD00E685D7 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -29,6 +35,8 @@
 		FAEF56391C18E8BD00E685D7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAEF563C1C18E8BD00E685D7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FAEF563E1C18E8BD00E685D7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FAEF56441C19384E00E685D7 /* Location.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Location.h; sourceTree = "<group>"; };
+		FAEF56451C19384E00E685D7 /* Location.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Location.m; sourceTree = "<group>"; };
 		FD89E304EEBD86BF3B0DC6CE /* libPods.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libPods.a; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -91,6 +99,11 @@
 				FAEF563B1C18E8BD00E685D7 /* LaunchScreen.storyboard */,
 				FAEF563E1C18E8BD00E685D7 /* Info.plist */,
 				FAEF562D1C18E8BD00E685D7 /* Supporting Files */,
+				FAEF56441C19384E00E685D7 /* Location.h */,
+				FAEF56451C19384E00E685D7 /* Location.m */,
+				FA5F44A11C1946DF00AAD846 /* LocationDetailViewController.h */,
+				FA5F44A21C1946DF00AAD846 /* LocationDetailViewController.m */,
+				FADBFD151C194AC000C4D8DF /* LocationDetailView.xib */,
 			);
 			path = "One Year";
 			sourceTree = "<group>";
@@ -165,6 +178,7 @@
 			files = (
 				FAEF563D1C18E8BD00E685D7 /* LaunchScreen.storyboard in Resources */,
 				FAEF563A1C18E8BD00E685D7 /* Assets.xcassets in Resources */,
+				FADBFD161C194AC000C4D8DF /* LocationDetailView.xib in Resources */,
 				FAEF56381C18E8BD00E685D7 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -224,8 +238,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA5F44A31C1946DF00AAD846 /* LocationDetailViewController.m in Sources */,
 				FAEF56351C18E8BD00E685D7 /* ViewController.m in Sources */,
 				FAEF56321C18E8BD00E685D7 /* AppDelegate.m in Sources */,
+				FAEF56461C19384E00E685D7 /* Location.m in Sources */,
 				FAEF562F1C18E8BD00E685D7 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -339,6 +355,7 @@
 			baseConfigurationReference = B50F5D307A86FAAAF91BE5BF /* Pods.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "One Year/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.AKing.One-Year";
@@ -351,6 +368,7 @@
 			baseConfigurationReference = CCE35CC402C9B7A3A4EADD94 /* Pods.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "One Year/Info.plist";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.AKing.One-Year";
