@@ -7,7 +7,7 @@
     <objects>
         <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="LocationDetailViewController">
             <connections>
-                <outlet property="navigationBar" destination="GIh-wy-ofp" id="9W7-hd-pTb"/>
+                <outlet property="imageView" destination="NSX-GH-dcV" id="9nu-l9-lwb"/>
                 <outlet property="view" destination="iN0-l3-epB" id="eQp-0L-EzU"/>
             </connections>
         </placeholder>
@@ -16,18 +16,25 @@
             <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
             <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
             <subviews>
-                <navigationBar contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="GIh-wy-ofp">
-                    <rect key="frame" x="0.0" y="20" width="600" height="44"/>
-                    <items>
-                        <navigationItem title="Title" id="BqF-nj-lqT"/>
-                    </items>
-                </navigationBar>
+                <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="NSX-GH-dcV">
+                    <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+                </imageView>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Vzc-CU-XRJ">
+                    <rect key="frame" x="8" y="20" width="34" height="30"/>
+                    <state key="normal" title="Back"/>
+                    <connections>
+                        <action selector="doneAction:" destination="-1" eventType="touchUpInside" id="ktD-fh-Vjx"/>
+                    </connections>
+                </button>
             </subviews>
             <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="calibratedWhite"/>
             <constraints>
-                <constraint firstAttribute="trailing" secondItem="GIh-wy-ofp" secondAttribute="trailing" id="CPN-1K-oK0"/>
-                <constraint firstItem="GIh-wy-ofp" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="20" id="fja-WU-mza"/>
-                <constraint firstItem="GIh-wy-ofp" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="uIx-PM-cfU"/>
+                <constraint firstAttribute="bottom" secondItem="NSX-GH-dcV" secondAttribute="bottom" id="4Jx-e0-w94"/>
+                <constraint firstItem="Vzc-CU-XRJ" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="8" id="BdK-uf-idU"/>
+                <constraint firstAttribute="trailing" secondItem="NSX-GH-dcV" secondAttribute="trailing" id="SsS-cp-aGs"/>
+                <constraint firstItem="Vzc-CU-XRJ" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="20" id="i6S-2X-YS4"/>
+                <constraint firstItem="NSX-GH-dcV" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" id="qmX-Ma-lwU"/>
+                <constraint firstItem="NSX-GH-dcV" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" id="yhY-mM-9PJ"/>
             </constraints>
         </view>
     </objects>

@@ -15,5 +15,6 @@
 @property (assign, nonatomic) CLLocationDegrees lon;
 @property (copy, nonatomic) NSString *locationName;
 @property (copy, nonatomic) NSString *locationSnippet;
+@property (copy, nonatomic) NSString *imageName;
 
 @end

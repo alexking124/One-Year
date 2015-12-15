@@ -12,7 +12,7 @@
 
 @interface LocationDetailViewController ()
 
-@property (weak, nonatomic) IBOutlet UINavigationBar *navigationBar;
+@property (weak, nonatomic) IBOutlet UIImageView *imageView;
 
 @property (weak, nonatomic) Location *location;
 
@@ -28,13 +28,11 @@
 }
 
 - (void)viewDidLoad {
-    UIBarButtonItem *doneButton = [[UIBarButtonItem alloc] initWithBarButtonSystemItem:UIBarButtonSystemItemDone target:self action:@selector(doneAction)];
-    UINavigationItem *navItem = [[UINavigationItem alloc] initWithTitle:self.location.locationName];
-    navItem.rightBarButtonItem = doneButton;
-    [self.navigationBar setItems:@[navItem]];
+    UIImage *image = [UIImage imageNamed:self.location.imageName];
+    [self.imageView setImage:image];
 }
 
-- (void)doneAction {
+- (IBAction)doneAction:(id)sender {
     [self dismissViewControllerAnimated:YES completion:nil];
 }
 

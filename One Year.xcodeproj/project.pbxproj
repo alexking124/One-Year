@@ -8,6 +8,31 @@
 
 /* Begin PBXBuildFile section */
 		484867F6115E777B8BD874C2 /* libPods.a in Frameworks */ = {isa = PBXBuildFile; fileRef = FD89E304EEBD86BF3B0DC6CE /* libPods.a */; };
+		FA13452F1C2005230000C05C /* cats.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA1345201C2005230000C05C /* cats.jpg */; };
+		FA1345301C2005230000C05C /* d+k.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA1345211C2005230000C05C /* d+k.jpg */; };
+		FA1345311C2005230000C05C /* griffith.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FA1345221C2005230000C05C /* griffith.jpeg */; };
+		FA1345321C2005230000C05C /* monterey.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA1345231C2005230000C05C /* monterey.jpg */; };
+		FA1345331C2005230000C05C /* MTTam.JPG in Resources */ = {isa = PBXBuildFile; fileRef = FA1345241C2005230000C05C /* MTTam.JPG */; };
+		FA1345341C2005230000C05C /* northstar.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA1345251C2005230000C05C /* northstar.jpg */; };
+		FA1345351C2005230000C05C /* northstarSkiing.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA1345261C2005230000C05C /* northstarSkiing.jpg */; };
+		FA1345361C2005230000C05C /* pin.png in Resources */ = {isa = PBXBuildFile; fileRef = FA1345271C2005230000C05C /* pin.png */; };
+		FA1345371C2005230000C05C /* roadToHana.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA1345281C2005230000C05C /* roadToHana.jpg */; };
+		FA1345381C2005230000C05C /* sikes.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FA1345291C2005230000C05C /* sikes.jpeg */; };
+		FA1345391C2005230000C05C /* skyCamp.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA13452A1C2005230000C05C /* skyCamp.jpg */; };
+		FA13453A1C2005230000C05C /* sToS.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA13452B1C2005230000C05C /* sToS.jpg */; };
+		FA13453B1C2005230000C05C /* sweeneyRidge.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA13452C1C2005230000C05C /* sweeneyRidge.jpg */; };
+		FA13453C1C2005230000C05C /* ululanis.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA13452D1C2005230000C05C /* ululanis.jpg */; };
+		FA13453D1C2005230000C05C /* yosemite.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA13452E1C2005230000C05C /* yosemite.jpg */; };
+		FA1345441C200FB00000C05C /* biscuit.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA13453E1C200FB00000C05C /* biscuit.jpg */; };
+		FA1345451C200FB00000C05C /* 4thJuly.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA13453F1C200FB00000C05C /* 4thJuly.jpg */; };
+		FA1345461C200FB00000C05C /* haleakala.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA1345401C200FB00000C05C /* haleakala.jpg */; };
+		FA1345471C200FB00000C05C /* holiday2014.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = FA1345411C200FB00000C05C /* holiday2014.jpeg */; };
+		FA1345481C200FB00000C05C /* huey.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA1345421C200FB00000C05C /* huey.jpg */; };
+		FA1345491C200FB00000C05C /* condo.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA1345431C200FB00000C05C /* condo.jpg */; };
+		FA13454B1C2010810000C05C /* high.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA13454A1C2010810000C05C /* high.jpg */; };
+		FA13454D1C20129C0000C05C /* arnold.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA13454C1C20129C0000C05C /* arnold.jpg */; };
+		FA13454F1C20136B0000C05C /* sharks.jpg in Resources */ = {isa = PBXBuildFile; fileRef = FA13454E1C20136B0000C05C /* sharks.jpg */; };
+		FA1345511C2014B00000C05C /* scuba.JPG in Resources */ = {isa = PBXBuildFile; fileRef = FA1345501C2014B00000C05C /* scuba.JPG */; };
 		FA5F44A31C1946DF00AAD846 /* LocationDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = FA5F44A21C1946DF00AAD846 /* LocationDetailViewController.m */; };
 		FADBFD161C194AC000C4D8DF /* LocationDetailView.xib in Resources */ = {isa = PBXBuildFile; fileRef = FADBFD151C194AC000C4D8DF /* LocationDetailView.xib */; };
 		FAEF562F1C18E8BD00E685D7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = FAEF562E1C18E8BD00E685D7 /* main.m */; };
@@ -22,6 +47,31 @@
 /* Begin PBXFileReference section */
 		B50F5D307A86FAAAF91BE5BF /* Pods.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.debug.xcconfig; path = "Pods/Target Support Files/Pods/Pods.debug.xcconfig"; sourceTree = "<group>"; };
 		CCE35CC402C9B7A3A4EADD94 /* Pods.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = Pods.release.xcconfig; path = "Pods/Target Support Files/Pods/Pods.release.xcconfig"; sourceTree = "<group>"; };
+		FA1345201C2005230000C05C /* cats.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = cats.jpg; path = Resources/cats.jpg; sourceTree = "<group>"; };
+		FA1345211C2005230000C05C /* d+k.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "d+k.jpg"; path = "Resources/d+k.jpg"; sourceTree = "<group>"; };
+		FA1345221C2005230000C05C /* griffith.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = griffith.jpeg; path = Resources/griffith.jpeg; sourceTree = "<group>"; };
+		FA1345231C2005230000C05C /* monterey.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = monterey.jpg; path = Resources/monterey.jpg; sourceTree = "<group>"; };
+		FA1345241C2005230000C05C /* MTTam.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = MTTam.JPG; path = Resources/MTTam.JPG; sourceTree = "<group>"; };
+		FA1345251C2005230000C05C /* northstar.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = northstar.jpg; path = Resources/northstar.jpg; sourceTree = "<group>"; };
+		FA1345261C2005230000C05C /* northstarSkiing.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = northstarSkiing.jpg; path = Resources/northstarSkiing.jpg; sourceTree = "<group>"; };
+		FA1345271C2005230000C05C /* pin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = pin.png; path = Resources/pin.png; sourceTree = "<group>"; };
+		FA1345281C2005230000C05C /* roadToHana.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = roadToHana.jpg; path = Resources/roadToHana.jpg; sourceTree = "<group>"; };
+		FA1345291C2005230000C05C /* sikes.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sikes.jpeg; path = Resources/sikes.jpeg; sourceTree = "<group>"; };
+		FA13452A1C2005230000C05C /* skyCamp.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = skyCamp.jpg; path = Resources/skyCamp.jpg; sourceTree = "<group>"; };
+		FA13452B1C2005230000C05C /* sToS.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sToS.jpg; path = Resources/sToS.jpg; sourceTree = "<group>"; };
+		FA13452C1C2005230000C05C /* sweeneyRidge.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = sweeneyRidge.jpg; path = Resources/sweeneyRidge.jpg; sourceTree = "<group>"; };
+		FA13452D1C2005230000C05C /* ululanis.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = ululanis.jpg; path = Resources/ululanis.jpg; sourceTree = "<group>"; };
+		FA13452E1C2005230000C05C /* yosemite.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = yosemite.jpg; path = Resources/yosemite.jpg; sourceTree = "<group>"; };
+		FA13453E1C200FB00000C05C /* biscuit.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = biscuit.jpg; sourceTree = "<group>"; };
+		FA13453F1C200FB00000C05C /* 4thJuly.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 4thJuly.jpg; sourceTree = "<group>"; };
+		FA1345401C200FB00000C05C /* haleakala.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = haleakala.jpg; sourceTree = "<group>"; };
+		FA1345411C200FB00000C05C /* holiday2014.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = holiday2014.jpeg; sourceTree = "<group>"; };
+		FA1345421C200FB00000C05C /* huey.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = huey.jpg; sourceTree = "<group>"; };
+		FA1345431C200FB00000C05C /* condo.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = condo.jpg; sourceTree = "<group>"; };
+		FA13454A1C2010810000C05C /* high.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = high.jpg; sourceTree = "<group>"; };
+		FA13454C1C20129C0000C05C /* arnold.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = arnold.jpg; sourceTree = "<group>"; };
+		FA13454E1C20136B0000C05C /* sharks.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sharks.jpg; sourceTree = "<group>"; };
+		FA1345501C2014B00000C05C /* scuba.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = scuba.JPG; path = Resources/scuba.JPG; sourceTree = "<group>"; };
 		FA5F44A11C1946DF00AAD846 /* LocationDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LocationDetailViewController.h; sourceTree = "<group>"; };
 		FA5F44A21C1946DF00AAD846 /* LocationDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocationDetailViewController.m; sourceTree = "<group>"; };
 		FADBFD151C194AC000C4D8DF /* LocationDetailView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LocationDetailView.xib; sourceTree = "<group>"; };
@@ -69,6 +119,55 @@
 			name = Pods;
 			sourceTree = "<group>";
 		};
+		FA13451D1C1FFB320000C05C /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FA13454C1C20129C0000C05C /* arnold.jpg */,
+				FA13454E1C20136B0000C05C /* sharks.jpg */,
+				FA13454A1C2010810000C05C /* high.jpg */,
+				FA13453E1C200FB00000C05C /* biscuit.jpg */,
+				FA1345501C2014B00000C05C /* scuba.JPG */,
+				FA13453F1C200FB00000C05C /* 4thJuly.jpg */,
+				FA1345401C200FB00000C05C /* haleakala.jpg */,
+				FA1345411C200FB00000C05C /* holiday2014.jpeg */,
+				FA1345421C200FB00000C05C /* huey.jpg */,
+				FA1345431C200FB00000C05C /* condo.jpg */,
+				FA1345201C2005230000C05C /* cats.jpg */,
+				FA1345211C2005230000C05C /* d+k.jpg */,
+				FA1345221C2005230000C05C /* griffith.jpeg */,
+				FA1345231C2005230000C05C /* monterey.jpg */,
+				FA1345241C2005230000C05C /* MTTam.JPG */,
+				FA1345251C2005230000C05C /* northstar.jpg */,
+				FA1345261C2005230000C05C /* northstarSkiing.jpg */,
+				FA1345271C2005230000C05C /* pin.png */,
+				FA1345281C2005230000C05C /* roadToHana.jpg */,
+				FA1345291C2005230000C05C /* sikes.jpeg */,
+				FA13452A1C2005230000C05C /* skyCamp.jpg */,
+				FA13452B1C2005230000C05C /* sToS.jpg */,
+				FA13452C1C2005230000C05C /* sweeneyRidge.jpg */,
+				FA13452D1C2005230000C05C /* ululanis.jpg */,
+				FA13452E1C2005230000C05C /* yosemite.jpg */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		FADEC3D21C1E886500968C83 /* Source */ = {
+			isa = PBXGroup;
+			children = (
+				FAEF56301C18E8BD00E685D7 /* AppDelegate.h */,
+				FAEF56311C18E8BD00E685D7 /* AppDelegate.m */,
+				FAEF56331C18E8BD00E685D7 /* ViewController.h */,
+				FAEF56341C18E8BD00E685D7 /* ViewController.m */,
+				FAEF56361C18E8BD00E685D7 /* Main.storyboard */,
+				FAEF56441C19384E00E685D7 /* Location.h */,
+				FAEF56451C19384E00E685D7 /* Location.m */,
+				FA5F44A11C1946DF00AAD846 /* LocationDetailViewController.h */,
+				FA5F44A21C1946DF00AAD846 /* LocationDetailViewController.m */,
+				FADBFD151C194AC000C4D8DF /* LocationDetailView.xib */,
+			);
+			name = Source;
+			sourceTree = "<group>";
+		};
 		FAEF56211C18E8BD00E685D7 = {
 			isa = PBXGroup;
 			children = (
@@ -90,20 +189,9 @@
 		FAEF562C1C18E8BD00E685D7 /* One Year */ = {
 			isa = PBXGroup;
 			children = (
-				FAEF56301C18E8BD00E685D7 /* AppDelegate.h */,
-				FAEF56311C18E8BD00E685D7 /* AppDelegate.m */,
-				FAEF56331C18E8BD00E685D7 /* ViewController.h */,
-				FAEF56341C18E8BD00E685D7 /* ViewController.m */,
-				FAEF56361C18E8BD00E685D7 /* Main.storyboard */,
-				FAEF56391C18E8BD00E685D7 /* Assets.xcassets */,
-				FAEF563B1C18E8BD00E685D7 /* LaunchScreen.storyboard */,
-				FAEF563E1C18E8BD00E685D7 /* Info.plist */,
+				FADEC3D21C1E886500968C83 /* Source */,
+				FA13451D1C1FFB320000C05C /* Resources */,
 				FAEF562D1C18E8BD00E685D7 /* Supporting Files */,
-				FAEF56441C19384E00E685D7 /* Location.h */,
-				FAEF56451C19384E00E685D7 /* Location.m */,
-				FA5F44A11C1946DF00AAD846 /* LocationDetailViewController.h */,
-				FA5F44A21C1946DF00AAD846 /* LocationDetailViewController.m */,
-				FADBFD151C194AC000C4D8DF /* LocationDetailView.xib */,
 			);
 			path = "One Year";
 			sourceTree = "<group>";
@@ -111,6 +199,9 @@
 		FAEF562D1C18E8BD00E685D7 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				FAEF563B1C18E8BD00E685D7 /* LaunchScreen.storyboard */,
+				FAEF563E1C18E8BD00E685D7 /* Info.plist */,
+				FAEF56391C18E8BD00E685D7 /* Assets.xcassets */,
 				FAEF562E1C18E8BD00E685D7 /* main.m */,
 			);
 			name = "Supporting Files";
@@ -150,6 +241,7 @@
 				TargetAttributes = {
 					FAEF56291C18E8BD00E685D7 = {
 						CreatedOnToolsVersion = 7.1.1;
+						DevelopmentTeam = 462UQRLLYC;
 					};
 				};
 			};
@@ -176,10 +268,35 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FA13453A1C2005230000C05C /* sToS.jpg in Resources */,
+				FA1345321C2005230000C05C /* monterey.jpg in Resources */,
+				FA13453B1C2005230000C05C /* sweeneyRidge.jpg in Resources */,
+				FA1345491C200FB00000C05C /* condo.jpg in Resources */,
+				FA1345331C2005230000C05C /* MTTam.JPG in Resources */,
+				FA13454F1C20136B0000C05C /* sharks.jpg in Resources */,
+				FA1345391C2005230000C05C /* skyCamp.jpg in Resources */,
+				FA1345301C2005230000C05C /* d+k.jpg in Resources */,
+				FA1345461C200FB00000C05C /* haleakala.jpg in Resources */,
+				FA13453D1C2005230000C05C /* yosemite.jpg in Resources */,
+				FA1345511C2014B00000C05C /* scuba.JPG in Resources */,
 				FAEF563D1C18E8BD00E685D7 /* LaunchScreen.storyboard in Resources */,
+				FA13453C1C2005230000C05C /* ululanis.jpg in Resources */,
+				FA1345481C200FB00000C05C /* huey.jpg in Resources */,
+				FA1345351C2005230000C05C /* northstarSkiing.jpg in Resources */,
 				FAEF563A1C18E8BD00E685D7 /* Assets.xcassets in Resources */,
+				FA1345451C200FB00000C05C /* 4thJuly.jpg in Resources */,
+				FA1345341C2005230000C05C /* northstar.jpg in Resources */,
 				FADBFD161C194AC000C4D8DF /* LocationDetailView.xib in Resources */,
+				FA1345441C200FB00000C05C /* biscuit.jpg in Resources */,
+				FA1345381C2005230000C05C /* sikes.jpeg in Resources */,
+				FA1345311C2005230000C05C /* griffith.jpeg in Resources */,
+				FA13452F1C2005230000C05C /* cats.jpg in Resources */,
 				FAEF56381C18E8BD00E685D7 /* Main.storyboard in Resources */,
+				FA1345371C2005230000C05C /* roadToHana.jpg in Resources */,
+				FA1345361C2005230000C05C /* pin.png in Resources */,
+				FA1345471C200FB00000C05C /* holiday2014.jpeg in Resources */,
+				FA13454B1C2010810000C05C /* high.jpg in Resources */,
+				FA13454D1C20129C0000C05C /* arnold.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

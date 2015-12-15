@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 
-@interface LocationDetailViewController : UIViewController
+@interface LocationDetailViewController : UIViewController <UINavigationBarDelegate>
 
 - (instancetype)initWithLocation:(Location *)location;
 
