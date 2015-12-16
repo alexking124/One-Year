@@ -149,7 +149,8 @@
 				FA13452E1C2005230000C05C /* yosemite.jpg */,
 			);
 			name = Resources;
-			sourceTree = "<group>";
+			path = "One Year";
+			sourceTree = SOURCE_ROOT;
 		};
 		FADEC3D21C1E886500968C83 /* Source */ = {
 			isa = PBXGroup;
